@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vk-apps/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/vk-apps/static/js/main.d1b70cf4.chunk.js",
+    "main.js.map": "/vk-apps/static/js/main.d1b70cf4.chunk.js.map",
+    "runtime-main.js": "/vk-apps/static/js/runtime-main.587c7ccd.js",
+    "runtime-main.js.map": "/vk-apps/static/js/runtime-main.587c7ccd.js.map",
+    "static/css/2.4a20606a.chunk.css": "/vk-apps/static/css/2.4a20606a.chunk.css",
+    "static/js/2.7c05c547.chunk.js": "/vk-apps/static/js/2.7c05c547.chunk.js",
+    "static/js/2.7c05c547.chunk.js.map": "/vk-apps/static/js/2.7c05c547.chunk.js.map",
+    "index.html": "/vk-apps/index.html",
+    "static/css/2.4a20606a.chunk.css.map": "/vk-apps/static/css/2.4a20606a.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/vk-apps/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.7c05c547.chunk.js.LICENSE.txt": "/vk-apps/static/js/2.7c05c547.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/vk-apps/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.587c7ccd.js",
+    "static/css/2.4a20606a.chunk.css",
+    "static/js/2.7c05c547.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.d1b70cf4.chunk.js"
+  ]
+}
